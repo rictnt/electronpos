@@ -1,0 +1,24 @@
+{
+  "name": "cursoelectron",
+  "version": "1.0.0",
+  "description": "ejercisios electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rictnt/electronpos.git"
+  },
+  "keywords": [
+    "nodejs",
+    "programacion",
+    "ejercisios"
+  ],
+  "author": "Richard Tonato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rictnt/electronpos/issues"
+  },
+  "homepage": "https://github.com/rictnt/electronpos#readme"
+}
